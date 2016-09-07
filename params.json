@@ -1,0 +1,6 @@
+{
+  "name": "Teamspeak 3 French TTS speech texts",
+  "tagline": "Traduction des textes pour utiliser un TTS en français avec Teamspeak 3.",
+  "body": "# ![Logo](/logo/FR_TTS2.png) French TTS Speech texts v1.1\r\n##Add-on TeamSpeak par Augur Lyhrel\r\n##[Demo youtube](http://youtu.be/fpT68WxkRwc)\r\n\r\nTraduction des textes pour utiliser un TTS en français avec Teamspeak 3.\r\n\r\nTrois versions existent :\r\n\r\n1. Complet : phrases complètes et nombre de messages par défaut\r\n2. Court : phrases courtes et nombre de messages par défaut\r\n3. Clair : phrases courtes et nombre de messages réduit\r\n\r\n*Ce dernier est recommandé pour la plupart des utilisateurs.*\r\n\r\nText to Speech : synthèse vocale. Tous les systèmes n'incluent pas un TTS avec voix française, il vous suffira d'en installer une.\r\n\r\n##Installation :\r\nDouble-cliquez sur le fichier voulu, puis sur INSTALL et OUI pour l'avoir par défaut.\r\n\r\n[Sujet du forum Teamspeak](http://forum.teamspeak.com/showthread.php/91220-RELEASE-French-TTS-speech-texts)\r\n\r\n##Changelog :\r\n* v1.0 (19/07/13) : Release initiale\r\n* v1.1 (07/08/13) : Corrections\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
