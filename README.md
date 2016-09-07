@@ -1,42 +1,24 @@
-	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	X                                                                                 X	
-	X                             French TTS Speech texts                             X
-	X                                       v1.1                                      X
-	X                                 Add-on TeamSpeak                                X
-	X                                                                                 X	
-	X                                 par Augur Lyhrel                                X
-	X                                                                                 X		 
-	X                        Demo : http://youtu.be/fpT68WxkRwc                       X
-	X                                                                                 X
-	XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+# ![Logo](/logo/FR_TTS2.png) French TTS Speech texts v1.1
+##Add-on TeamSpeak par Augur Lyhrel
+##[Demo youtube](http://youtu.be/fpT68WxkRwc)
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-X                                                                                         X
-X Traduction des textes pour utiliser un TTS* en français avec Teamspeak 3.               X
-X                                                                                         X
-X  Trois versions existent :                                                              X
-X                                                                                         X
-X  1- Complet : phrases complètes et nombre de messages par défaut.                       X
-X                                                                                         X
-X  2- Court : phrases courtes et nombre de messages par défaut.                           X
-X                                                                                         X
-X  3- Clair : phrases courtes et nombre de messages réduit.                               X
-X  Celui-ci est recommandé pour la plupart des utilisateurs.                              X
-X                                                                                         X
-X  *Text to Speech, synthèse vocale. Tous les systèmes n'incluent pas un TTS avec voix    X
-X  française, il vous suffira d'en installer une.                                         X
-X                                                                                         X
-X                                                                                         X	
-X  Installation :                                                                         X
-X  Double-cliquez sur le fichier voulu, puis sur INSTALL et OUI pour l'avoir par défaut.  X
-X                                                                                         X
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-X                                                                                         X
-X  Release : 07/08/13                                                                     X
-X                                                                                         X
-X     http://forum.teamspeak.com/showthread.php/91220-RELEASE-French-TTS-speech-texts     X
-X                                                                                         X
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	 
-v1.0 (19/07/13) : Release initiale
-v1.1 (07/08/13) : Corrections
+Traduction des textes pour utiliser un TTS en franÃ§ais avec Teamspeak 3.
+
+Trois versions existent :
+
+1. Complet : phrases complÃ¨tes et nombre de messages par dÃ©faut
+2. Court : phrases courtes et nombre de messages par dÃ©faut
+3. Clair : phrases courtes et nombre de messages rÃ©duit
+
+*Ce dernier est recommandÃ© pour la plupart des utilisateurs.*
+
+Text to Speech : synthÃ¨se vocale. Tous les systÃ¨mes n'incluent pas un TTS avec voix franÃ§aise, il vous suffira d'en installer une.
+
+##Installation :
+Double-cliquez sur le fichier voulu, puis sur INSTALL et OUI pour l'avoir par dÃ©faut.
+
+[Sujet du forum Teamspeak](http://forum.teamspeak.com/showthread.php/91220-RELEASE-French-TTS-speech-texts)
+
+##Changelog :
+* v1.0 (19/07/13) : Release initiale
+* v1.1 (07/08/13) : Corrections
